@@ -1,0 +1,10 @@
+:~
+    title+'Precis'
+    info+'Percive and share'
+    color+0xd9.b000
+    version+[0 1 0]
+    website+''
+    license+'MIT'
+    base+'precis'
+    site+/precis
+==
